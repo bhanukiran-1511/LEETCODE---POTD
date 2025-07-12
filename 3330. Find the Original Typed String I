@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     int possibleStringCount(string word) {
         int n=word.size();
         int cnt=0;
