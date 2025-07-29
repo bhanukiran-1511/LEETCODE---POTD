@@ -1,10 +1,3 @@
-/*     Scroll below to see JAVA code also    */
-/*
-    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=DQOgVNI6BcE
-    Company Tags                : Will update soon
-    Leetcode Link               : https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets
-*/
-
 
 /************************************************************ C++ ************************************************/
 //Approach-1 (Using simple recursion to find subsets)
